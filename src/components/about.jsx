@@ -45,7 +45,20 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Web Development </h3>
-                    <p>I have experience building full stack web apps that provide intuitive, pixel-perfect user interfaces with efficient and modern frameworks</p>
+                    <p>I have experience building full stack web apps that provide intuitive, pixel-perfect user interfaces with efficient and modern (front-end & back-end) frameworks</p>
+                </div>
+                </div>
+            </div>
+            
+            <div className="col-md-4 text-center animate-box">
+                <div className="services color-5">
+                <span className="icon">
+                    <i className="icon-data" />
+                </span>
+                <div className="desc">
+                    <h3>Data Analyst</h3>
+                    <p>Analyze data using machine learning, deep learning, and classifications</p>
+                    <p>&nbsp;</p>
                 </div>
                 </div>
             </div>
@@ -55,21 +68,8 @@ export default class About extends Component {
                     <i className="icon-phone3" />
                 </span>
                 <div className="desc">
-                    <h3>Data Structures & Algorithms</h3>
-                    <p>As coming from the CS background, I have good grasp over fundamental concepts of DSA </p>
-                    <br></br>
-                </div>
-                </div>
-            </div>
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-5">
-                <span className="icon">
-                    <i className="icon-data" />
-                </span>
-                <div className="desc">
-                    <h3>Dev Ops</h3>
-                    <p>In my previous internships, I have worked with tools like Git</p>
-                    <p>&nbsp;</p>
+                    <h3>Cloud Computing</h3>
+                    <p>In my previous internship, I worked with Google Cloud Platforms. I have experience in developing, deploying, and debugging cloud-based applications</p>
                 </div>
                 </div>
             </div>

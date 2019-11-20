@@ -53,6 +53,45 @@ export default class Projects extends Component {
 									</div>
 								</div>
 							</div>
+							<div className="col-md-4 animate-box" data-animate-effect="fadeInTop">
+								<div className="project" style={{backgroundImage: 'url(images/car.png)'}}>
+									<div className="desc">
+										<div className="con">
+											<h3><a href="https://github.com/melaniewoe/Maze-Car">Autonomous Car</a></h3>
+											<span>Arduino, C++</span>
+											<p className="icon">
+												<span><a href="https://github.com/melaniewoe/Maze-Car"><i className="icon-github" /></a></span>
+											</p>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div className="col-md-4 animate-box" data-animate-effect="fadeInTop">
+								<div className="project" style={{backgroundImage: 'url(images/multiplication.png)'}}>
+									<div className="desc">
+										<div className="con">
+											<h3><a href="https://github.com/melaniewoe/multi-threading">Multithreading</a></h3>
+											<span>C++</span>
+											<p className="icon">
+												<span><a href="https://github.com/melaniewoe/multi-threading"><i className="icon-github" /></a></span>
+											</p>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div className="col-md-4 animate-box" data-animate-effect="fadeInTop">
+								<div className="project" style={{backgroundImage: 'url(images/rtd.jpg)'}}>
+									<div className="desc">
+										<div className="con">
+											<h3><a href="https://github.com/melaniewoe/RTD_IOT">RTD IOT</a></h3>
+											<span>C#, ASP.NET</span>
+											<p className="icon">
+												<span><a href="https://github.com/melaniewoe/RTD_IOT"><i className="icon-github" /></a></span>
+											</p>
+										</div>
+									</div>
+								</div>
+							</div>
 						</div>
 						<div className="row">
 							<div className="col-md-12 animate-box">
