@@ -36,7 +36,7 @@ export default class Sidebar extends Component {
               </ul>
             </nav>
             <div className="colorlib-footer">
-              <p><small>© 2019 <i className="icon-heart" aria-hidden="true" /> </small></p>
+              <p><small>© 2021 <i className="icon-heart" aria-hidden="true" /> </small></p>
             </div>
           </aside>
         </div>

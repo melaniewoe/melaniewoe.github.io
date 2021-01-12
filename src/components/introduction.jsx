@@ -14,7 +14,7 @@ export default class Introduction extends Component {
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
-                          <h1>Hi! <br />I'm Melanie</h1>
+                          <h1>Hello<br />I'm Melanie</h1>
                           <p><a className="btn btn-primary btn-learn" href="https://drive.google.com/file/d/1TGkAgXZsPP_4GUJGo1-mdVNMzhW3NrpO/view?usp=sharing" target="_blank" rel="noopener noreferrer">View Resume <i className="icon-download4" /></a></p>
                         </div>
                       </div>
@@ -38,6 +38,9 @@ export default class Introduction extends Component {
                 </div>
               </li>
             </ul>
+          </div>
+          <div className="logo">
+            <img src="/my_logo2.png" width="150" height="150" style={{top:0, right: 0, zIndex: 1, position: "absolute"}}/>
           </div>
         </section>
       </div>
