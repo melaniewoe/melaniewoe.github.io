@@ -6,6 +6,7 @@ import Introduction from './components/introduction'
 import About from './components/about'
 import Projects from './components/project'
 import Experience from './components/experience'
+import Connect from './components/connect'
 
 class App extends Component {
   render() {
@@ -18,6 +19,7 @@ class App extends Component {
             <About></About>
             <Experience></Experience>
             <Projects></Projects>
+            <Connect></Connect>
             </div>
         </div>
       </div>
