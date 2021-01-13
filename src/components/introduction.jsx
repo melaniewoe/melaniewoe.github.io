@@ -11,10 +11,10 @@ export default class Introduction extends Component {
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
-                    <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
+                    <div className="col-md-9 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
-                          <h1>Hello<br />I'm Melanie</h1>
+                          <h1>Hello<br />I'm <span style={{textDecorationLine: "underline"}}>Melanie</span></h1>
                           <p><a className="btn btn-primary btn-learn" href="https://drive.google.com/file/d/1TGkAgXZsPP_4GUJGo1-mdVNMzhW3NrpO/view?usp=sharing" target="_blank" rel="noopener noreferrer">View Resume <i className="icon-download4" /></a></p>
                         </div>
                       </div>
@@ -26,7 +26,7 @@ export default class Introduction extends Component {
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
-                    <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
+                    <div className="col-md-9 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner">
                         <div className="desc">
                           <h1>I love building things! </h1>
