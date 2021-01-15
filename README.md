@@ -1,4 +1,4 @@
-VISIT https://melaniewoe.github.io/me/
+VISIT http://melaniewoe.herokuapp.com/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
